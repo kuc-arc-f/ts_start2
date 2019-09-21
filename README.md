@@ -12,5 +12,7 @@ TypeScript sample, tsconfig.json use
 ***
 ### blog
 
+https://knaka0209.hatenablog.com/entry/ts_2
+
 ***
 
